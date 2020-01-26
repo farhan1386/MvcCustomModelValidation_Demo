@@ -5,7 +5,8 @@ What are Validation Annotations?
 
 System.ComponentModel.DataAnnotations
 
- Required: It indicates that the property is a required field.  StringLength: It defines a maximum length for string field.
+ Required: It indicates that the property is a required field. 
+ StringLength: It defines a maximum length for string field.
  Range: It defines a maximum and minimum value for a numeric field.
  RegularExpression: It specifies that the field value must match with specified regular expression.
  CreditCard: It specifies that the specified field is a credit card number.
